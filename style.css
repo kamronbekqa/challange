@@ -1,0 +1,17 @@
+@media screen and (max-width: 375px) {
+  .container {
+    padding: 0 16px;
+  }
+  .search-wrapper {
+    max-width: 343px;
+    justify-content: center;
+  }
+  .main1 {
+    flex-direction: column;
+    justify-content: center;
+  }
+  .flags {
+    position: relative;
+    left: 40px;
+  }
+}
